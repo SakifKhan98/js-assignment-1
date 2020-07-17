@@ -58,9 +58,3 @@ function tinyFriend (friends) {
     }
     console.log("Tiniest Freind is: ", smlst);
 }
-
-tinyFriend(["Fahim", "Towshik", "Zabir", "Saka", "Shuchoy", "Shoron"])
-
-// if (typeof friends[i] != 'string') {
-//     console.log("Invalid Type of Name");
-// }
